@@ -12,4 +12,6 @@ Então qual o objetivo deste projeto de fato neste repositório?
 
 Você irá notar que o estilo CSS proposto neste projeto foi muito simples de fato, mas o que dei maior atenção foi a lógica empregada no javascript no entendimento do exercício proposto.
 
+A manipulação do DOM aqui foi o foco deste projeto.
+
 Version 1.0 (projeto baseado no curso ProgramadorBR - by Igor Oliveira)
