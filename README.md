@@ -1,6 +1,6 @@
-# Primeiro projeto manipulando o DOM churrascometro curso
+# Primeiro projeto manipulando o DOM churrascometro
 
-Qual o intuito do projeto proposto no curso?
+Qual o intuito do projeto proposto?
 
 No caso deste projeto era criar um aplicativo que realizasse um calculo para fazer uma confraternização com churrasco e bebidas em geral para adultos e crianças.
 
