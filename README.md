@@ -1,4 +1,4 @@
-# projeto_churrascometro_curso
+# Primeiro projeto manipulando o DOM churrascometro curso
 
 Qual o intuito do projeto proposto no curso?
 
